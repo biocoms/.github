@@ -1,5 +1,5 @@
 # BioComs Lab
-**Biostatistics and Computational Biology Laboratory**  
+**Bioinformatics and Computational Systems Biology Laboratory**  
 **University of Iowa, USA**
 
 Welcome to the GitHub page for the **BioComs Lab**! We are a research group dedicated to advancing the fields of biostatistics and computational biology through innovative analysis, modeling, and interpretation of complex biological data. Our lab specializes in integrative and computational approaches to address scientific questions in health and disease, with a particular focus on microbiome research, epigenetics, and multi-omics data integration.
